@@ -1,2 +1,2 @@
 # advent_of_code
-Advent of Code 2017 Solutions
+http://adventofcode.com/2017
